@@ -91,14 +91,4 @@ ENV/
 # Rope project settings
 .ropeproject
 
-.gitignore
 .idea/
-README.md
-algorithms/
-dataset/
-learner/
-requirements.txt
-setup.py
-tests/
-utils/
-visualization/
